@@ -1,0 +1,4 @@
+numpy
+Pillow
+# only needed for .DNG files:
+# rawpy
